@@ -21,6 +21,6 @@ Fitur :
 ### SCREENSHOT PROGRAM
 ![ss](https://github.com/Zaraply/UAS-praktikum_SistemOperasi/blob/main/calculator.sh.png)
 
-![ss2}(https://github.com/Zaraply/UAS-praktikum_SistemOperasi/blob/main/tiket.sh.png)
+![ss2](https://github.com/Zaraply/UAS-praktikum_SistemOperasi/blob/main/tiket.sh.png)
 
 | Calculator dan pemesanan tiket - Program Shell - UAS Praktikum Sistem Operasi |
